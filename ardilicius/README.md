@@ -12,7 +12,7 @@
   <li>Beberapa icon jika di klik menampilkan toast atau keterangan tertentu</li>
   <li>Terdapat fitur implicit intent pada icon email yang akan membuka aplikasi email otomatis pada handphone</li>
 </ul> 
-Aplikasi ini merupakan submission yang saya kirimkan untuk lulus di kelas belajar membuat aplikasi android dari <a https="https://www.dicoding.com/">dicoding</a>.
+Aplikasi ini merupakan submission yang saya kirimkan untuk lulus di kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com/">dicoding</a>.
 <br>Disini saya telah menambahkan beberapa pembaruan, diantaranya yaitu:</br>
 <ul>
   <li>Perbaikan pada logo splash screen yang terlalu besar</li>
