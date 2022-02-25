@@ -18,4 +18,4 @@ Merupakan aplikasi yang menampilkan beberapa <b>tokoh sejarah Indonesia</b>.
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
 
-<i>Halaman ini terakhir diperbarui pada 25 Februari 2022</i>
+<br><i>Halaman ini terakhir diperbarui pada 25 Februari 2022</i>
