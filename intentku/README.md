@@ -5,6 +5,7 @@
 <ul>
   <li>Menambahkan informasi berupa nama pembuat apikasi intentku</li>
 </ul>
+Persyaratan untuk menggunakan aplikasi ini:
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
