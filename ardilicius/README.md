@@ -1,5 +1,5 @@
 # Ardilicius
-Ardilicius adalah aplikasi yang menampilkan informasi menu makanan serta minuman pada restaurant yang saya beri nama Ardilicius. Di dalam aplikasi terdapat beberapa fitur seperti:
+<b>Ardilicius</b> adalah aplikasi yang menampilkan informasi menu makanan serta minuman pada restaurant yang saya beri nama Ardilicius. Di dalam aplikasi terdapat beberapa fitur seperti:
 <ul>
   <li>Adanya icon pada aplikasi</li>
   <li>Splash screen dengan animasi lingkaran disertai logo <i>ardilicius</i></li>
