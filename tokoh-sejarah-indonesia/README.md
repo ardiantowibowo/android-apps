@@ -13,8 +13,9 @@ Merupakan aplikasi yang menampilkan beberapa <b>tokoh sejarah Indonesia</b>.
 </ul>
 <b>Tokoh sejarah Indonesia</b> adalah aplikasi yang saya buat ketika sedang mempelajari materi <i>recycler view</i> pada kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com/">dicoding</a>
 
-
-Persyaratan untuk menggunakan aplikasi ini:
+<br>Persyaratan untuk menggunakan aplikasi ini:
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
+
+<i>Halaman ini terakhir diperbarui pada 25 Februari 2022</i>
