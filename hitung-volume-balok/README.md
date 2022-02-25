@@ -14,4 +14,4 @@ Persyaratan untuk menggunakan aplikasi ini:
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
-Aplikasi ini terakhir diperbarui pada tanggal 25 Februari 2022
+<br>Aplikasi ini terakhir diperbarui pada tanggal 25 Februari 2022
