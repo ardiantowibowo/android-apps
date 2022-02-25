@@ -10,5 +10,8 @@ Aplikasi yang digunakan untuk menghitung volume balok dengan rumus panjang x leb
     <li>androidx.constraintlayout:constraintlayout:2.1.3</li>
   </ul>
 </ul>
-
+Persyaratan untuk menggunakan aplikasi ini:
+<ul>
+  <li>Android versi 5.0 atau lebih tinggi</li>
+</ul>
 Aplikasi ini terakhir diperbarui pada tanggal 25 Februari 2022
