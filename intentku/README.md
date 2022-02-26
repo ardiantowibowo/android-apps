@@ -3,7 +3,7 @@
 <br>Aplikasi ini dibuat ketika saya sedang mempelajari materi intent pada kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com">dicoding</a>
 <br><br>Pembaruan pada aplikasi ini yaitu:
 <ul>
-  <li>Menambahkan informasi berupa nama pembuat apikasi intentku</li>
+  <li>Menambahkan informasi berupa nama pembuat apikasi</li>
 </ul>
 Persyaratan untuk menggunakan aplikasi ini:
 <ul>
