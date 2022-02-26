@@ -9,6 +9,7 @@ Aplikasi yang digunakan untuk menghitung volume balok dengan rumus panjang x leb
     <li>com.google.android.material:material:1.5.0</li>
     <li>androidx.constraintlayout:constraintlayout:2.1.3</li>
   </ul>
+  <li>Menambahkan watermark dengan nama pembuat aplikasi</li>
 </ul>
 Persyaratan untuk menggunakan aplikasi ini:
 <ul>
