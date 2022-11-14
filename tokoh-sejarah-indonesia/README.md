@@ -17,5 +17,6 @@ Merupakan aplikasi yang menampilkan beberapa <b>tokoh sejarah Indonesia</b>.
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
+<br><a href="https://github.com/ardiantowibowo/android-apps/raw/main/tokoh-sejarah-indonesia/Tokoh%20Sejarah%20Indonesia.apk">Download</a>
 
-<br><i>Halaman ini terakhir diperbarui pada 25 Februari 2022</i>
+<br><i>Aplikasi ini terakhir diperbarui pada 25 Februari 2022</i>
