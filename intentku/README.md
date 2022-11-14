@@ -9,5 +9,6 @@ Persyaratan untuk menggunakan aplikasi ini:
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
+<br><a href="https://github.com/ardiantowibowo/android-apps/raw/main/intentku/Intentku.apk">Download</a>
 
 <br><i>Aplikasi ini terakhir diperbarui pada 25 Februari 2022</i>
