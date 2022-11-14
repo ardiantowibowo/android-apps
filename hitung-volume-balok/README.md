@@ -17,4 +17,4 @@ Persyaratan untuk menggunakan aplikasi ini:
 </ul>
 <br><a href="https://github.com/ardiantowibowo/android-apps/raw/main/hitung-volume-balok/Hitung%20Volume%20Balok.apk">Download</a>
 
-<br>Aplikasi ini terakhir diperbarui pada tanggal 25 Februari 2022
+<br><i>Aplikasi ini terakhir diperbarui pada tanggal 25 Februari 2022</i>
