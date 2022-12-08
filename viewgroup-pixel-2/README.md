@@ -6,5 +6,6 @@ Aplikasi yang menampilkan informasi penjualan handphone google pixel disertai de
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
 </ul>
+<br><a href="https://github.com/ardiantowibowo/android-apps/raw/main/viewgroup-pixel-2/Viewgroup%20Pixel%202.apk">Download</a>
 
 <br><i>Halaman ini terakhir diperbarui pada 25 Februari 2022</i>
