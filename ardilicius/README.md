@@ -20,7 +20,7 @@ Versi 1.2.0 (1412)
   <li>Dukungan Android 13</li>
   <li>Dukungan Material You themed icon </li>
   <li>Memperbarui data</li>
-  <li>Ukuran aplikasi kini lebih kecil 13mb >> 9mb</li>
+  <li>Ukuran aplikasi kini lebih kecil (9mb << 13mb)</li>
   <li>Peningktan stabilitas dan kinerja</li>
 </ul>
 
