@@ -21,7 +21,7 @@
   <li>Dukungan Material You themed icon </li>
   <li>Memperbarui data</li>
   <li>Ukuran aplikasi kini lebih kecil (9mb << 13mb)</li>
-  <li>Peningktan stabilitas dan kinerja</li>
+  <li>Peningkatan stabilitas dan kinerja</li>
 </ul>
 25-02-2022
 <p>Versi 1.0 (1)</p>
