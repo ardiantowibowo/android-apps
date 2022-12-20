@@ -26,7 +26,7 @@
 
 
 25-02-2022
-Versi 1.0 (1)
+<p>Versi 1.0 (1)</p>
 <ul>
   <li>Perbaikan pada logo splash screen yang terlalu besar</li>
   <li>Status bar pada splash screen kini memiliki warna yang sesuai dengan background</li>
