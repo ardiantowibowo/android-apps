@@ -19,8 +19,10 @@
 <ul>
   <li>Dukungan Android 13</li>
   <li>Dukungan Material You themed icon </li>
-  <li>Memperbarui data</li>
   <li>Ukuran .apk kini lebih kecil (9mb << 13mb)</li>
+  <li>Perbaikan tampilan pada halaman detail makanan</li>
+  <li>Menambahkan tombol baru pada halaman detail makanan</li>
+  <li>Memperbarui data</li>
   <li>Peningkatan stabilitas dan kinerja</li>
 </ul>
 25-02-2022
