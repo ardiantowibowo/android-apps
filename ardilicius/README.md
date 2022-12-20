@@ -15,7 +15,7 @@
 <p>Aplikasi ini merupakan submission yang saya kirimkan untuk lulus di kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com">dicoding</a></p>
 <br><p>Changelog:</p>
 20-12-2022
-Versi 1.2.0 (1412)
+<p>Versi 1.2.0 (1412)</p>
 <ul>
   <li>Dukungan Android 13</li>
   <li>Dukungan Material You themed icon </li>
