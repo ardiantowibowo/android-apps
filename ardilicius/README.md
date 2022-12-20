@@ -14,8 +14,8 @@
 </ul> 
 <p>Aplikasi ini merupakan submission yang saya kirimkan untuk lulus di kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com">dicoding</a></p>
 <br><p>Changelog:</p>
-<p>20-12-2022</p>
-<p>Versi 1.2.0 (1412)</p>
+<p>20-12-2022
+Versi 1.2.0 (1412)</p>
 <ul>
   <li>Dukungan Android 13</li>
   <li>Dukungan Material You themed icon </li>
@@ -25,8 +25,8 @@
 </ul>
 
 
-<p>25-02-2022</p>
-<p>Versi 1.0 (1)</p>
+<p>25-02-2022
+Versi 1.0 (1)</p>
 <ul>
   <li>Perbaikan pada logo splash screen yang terlalu besar</li>
   <li>Status bar pada splash screen kini memiliki warna yang sesuai dengan background</li>
