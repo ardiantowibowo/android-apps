@@ -13,7 +13,7 @@
   <li>Terdapat fitur implicit intent pada icon email yang akan membuka aplikasi email otomatis pada handphone</li>
 </ul> 
 <p>Aplikasi ini merupakan submission yang saya kirimkan untuk lulus di kelas belajar membuat aplikasi android dari <a href="https://www.dicoding.com">dicoding</a></p>
-<br><p>Changelog</p></br>
+<br><p>Changelog:</p>
 20-12-2022
 Versi 1.2.0 (1412)
 <ul>
