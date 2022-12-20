@@ -32,7 +32,8 @@ Versi 1.0 (1)
   <li>Status bar pada splash screen kini memiliki warna yang sesuai dengan background</li>
   <li>Perbaikan hex code warna di dalam aplikasi</li>
 </ul>
-<p>Persyaratan untuk menggunakan aplikasi ini:</p>
+
+<br><p>Persyaratan untuk menggunakan aplikasi ini:</p>
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
   <li>Resolusi layar 300ppi atau lebih tinggi</li>
