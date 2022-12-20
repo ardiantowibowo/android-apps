@@ -24,7 +24,7 @@
   <li>Peningktan stabilitas dan kinerja</li>
 </ul>
 
-<br>25-02-2022
+25-02-2022
 <p>Versi 1.0 (1)</p>
 <ul>
   <li>Perbaikan pada logo splash screen yang terlalu besar</li>
