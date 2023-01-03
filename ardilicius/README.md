@@ -36,8 +36,7 @@
 <br><p>Persyaratan untuk menggunakan aplikasi ini:</p>
 <ul>
   <li>Android versi 5.0 atau lebih tinggi</li>
-  <li>Resolusi layar 300ppi atau lebih tinggi</li>
 </ul>
 <br><a href="https://github.com/ardiantowibowo/android-apps/raw/main/ardilicius/Ardilicius%201.2.0(1412).apk">Download</a>
 
-<br><i>Artikel ini terakhir diperbarui pada 20 Desember 2022</i>
+<br><i>Artikel ini terakhir diperbarui pada 4 Januari 2023</i>
