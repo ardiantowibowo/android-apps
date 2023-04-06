@@ -1,5 +1,5 @@
 # Hitung Volume Balok
-Aplikasi yang digunakan untuk menghitung volume balok dengan rumus panjang x lebar x tinggi, selain itu apilkasi ini juga support landscape dan memiliki fitur mendeteksi kesalahan apabila ada field yang kosong atau belum diisi dengan angka dengan menampilkan pesan tertentu.
+Aplikasi yang digunakan untuk menghitung volume balok dengan rumus panjang x lebar x tinggi, selain itu apilkasi ini juga support landscape dan memiliki fitur mendeteksi kesalahan apabila ada field yang kosong atau belum diisi angka dengan menampilkan pesan tertentu.
 <br><b>Hitung volume balok</b> merupakan sebuah proyek aplikasi yang saya buat ketika sedang mempelajari materi <i>activity</i> pada kelas belajar membuat aplikasi android di <a href="https://www.dicoding.com/">dicoding</a>
 <br><br>Pembaruan pada aplikasi ini, diantaranya yaitu:
 <ul>
