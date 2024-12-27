@@ -2,7 +2,7 @@
 Merupakan aplikasi yang menampilkan beberapa <b>tokoh sejarah Indonesia</b>. 
 <br>Beberapa fitur pada aplikasi ini diantaranya, yaitu:
 <ul>
-  <li>Terdaoat 3 halaman activity, yaitu:</li>
+  <li>Terdapat 3 halaman activity, yaitu:</li>
     <ul>
       <li>List, menampikan halaman berupa list dengan disertai foto dan keterangan</li>
       <li>Grid, menampilkan halaman berupa grid dengan foto</li>
